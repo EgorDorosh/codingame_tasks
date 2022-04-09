@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Input:              Output:
 #
 # Apple               11AA
