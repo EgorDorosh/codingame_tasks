@@ -1,0 +1,4 @@
+double letters are cool
+no doubles
+checking difFerent cases
+tricky balloon
