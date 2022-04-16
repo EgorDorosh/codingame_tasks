@@ -4,7 +4,7 @@
 #
 # Apple               11AA
 # Orange              1O
-# Pineapple           111P
+# Pineapple           111PPP
 # Pear                1P
 
 File.readlines('input.txt').each do |line|
